@@ -1,4 +1,4 @@
-# NFT-Card-Project-v1-
+# NFT Card Project
 ### The challenge
 
 Users should be able to:
